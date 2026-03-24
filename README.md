@@ -40,15 +40,6 @@ train_data, test_data = tfds.load(
 
 ---
 
-## Project Structure
-
-```
-├── West_Group_2_NLP_Project.ipynb   # Main notebook
-├── README.md
-```
-
----
-
 ## Setup & Requirements
 
 ```bash
