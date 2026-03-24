@@ -2,8 +2,6 @@
 
 A multi-class and binary text classification project using the [AG News dataset](https://huggingface.co/datasets/ag_news), comparing traditional ML baselines against deep learning approaches.
 
-**Team:** Raymond Alvarez, Sean Bullock, Travis Darby, David Smiley
-
 ---
 
 ## Overview
